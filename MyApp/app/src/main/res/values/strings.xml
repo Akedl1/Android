@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="push_the_button">Нажмите,чтобы узнать характеристику</string>
+
+    <string-array name="colors">
+        <item>Красный</item>
+        <item>Фиолетовый</item>
+        <item>Голубой</item>
+        <item>Черный</item>
+        <item>Прикольный</item>
+    </string-array>
+
+    <string-array name="colorsDescription">
+        <item>Это красный</item>
+        <item>Это фиолетвый</item>
+        <item>Это голубой</item>
+        <item>Это черный</item>
+        <item>Это прикольный</item>
+    </string-array>
+
+
+</resources>
